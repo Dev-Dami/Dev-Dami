@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hey my name is Damilare<br/><br><br>🧠 A highschool student hoping to break out in finance.<br/><br><br>💻 Computer Programer (Python, Html). <br/><br><br>📊 I Like Graphed data. <br/><br><br>🤝 [My Instragram]<br/><br>
+<br>Hey my name is Damilare<br/><br><br>🧠 A highschool student hoping to break out in Quantfinance.<br/><br><br>💻 Computer Programer (Python, FullStack Web Development). <br/><br><br>📊 I Like Graphing data and Programming Aswell as Geopolitical Discussions. <br/><br><br>
 
 
 ## 🌐 Socials:
