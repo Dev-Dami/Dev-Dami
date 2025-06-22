@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>Hey my name is Damilare Osibanjo<br/><br><br>🧠 A highschool student hoping to break out in Quantfinance and Data Analysis.<br/><br><br>💻 Computer Programer (Python, FullStack Web Development). <br/><br><br>📊 I Like Graphing data and Programming Aswell as Geopolitical Discussions. <br/><br><br>
+# Me:
+<br>My name is Damilare Osibanjo<br/><br><br>🧠 A student hoping to break out in Quantfinance and Data Analysis.<br/><br>💻Cyber-Security and Data Analyst. Conservative love programming(C++,Python), Statistics , History and Maths, Aswell as Geopolitical Discussions.<br/>
 
 
 ## 🌐 Socials:
