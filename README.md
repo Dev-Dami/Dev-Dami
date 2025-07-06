@@ -1,18 +1,51 @@
-# Me:
-<br>My name is Damilare Osibanjo<br/><br><br>🧠 A student hoping to break out in Quantfinance and Data Analysis.<br/><br>💻Cyber-Security and Data Analyst. love programming(C++,Python), Statistics,Cyber-Security ,History and Maths, Aswell as Geopolitical Discussions.<br/>
+# 👋 Hi, I'm Damilare Osibanjo
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nulisdami) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damiade5banjo@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=plastic&logo=tampermonkey&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NulledGarp&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NulledGarp&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NulledGarp&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🧠 Aspiring Quant Finance & Data Analyst  
+💻 Cybersecurity enthusiast | Passionate about C++, Python, Statistics, and Mathematics  
+📚 Lover of History and Geopolitics  
+🎓 Lifelong learner constantly exploring data, security, and the world
 
 ---
+
+## 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nulisdami) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damiade5banjo@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
+
+**Data & AI Tools**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+**Other Tools**  
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B?style=flat&logo=tampermonkey&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Damilare's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NulledGarp&theme=gruvbox&hide_border=false&show_icons=true)  
+![Damilare's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=NulledGarp&theme=gruvbox&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NulledGarp&layout=compact&theme=gruvbox&hide_border=false)
+
+---
+
+## 🧭 Visitor Counter
+
 [![](https://visitcount.itsvg.in/api?id=NulledGarp&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Profile generated & enhanced manually -->
