@@ -2,8 +2,7 @@
 
 🧠 Aspiring Quant Finance & Data Analyst  
 💻 Cybersecurity enthusiast | Full-Stack Developer  
-🚀 Passionate about C++, Python, Statistics, and Mathematics  
-📈 Skilled in React.js, Flask, and Go  
+🚀 Programmer: Skills include;Python, C++, Web Developer[HTML, CSS, JavaScript, React.js, Flask], Assembly(X64) and Go  
 📚 Lover of History, Geopolitics, and Analytical Thinking  
 🎓 Lifelong learner exploring data, security, and the world
 
