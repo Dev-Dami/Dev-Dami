@@ -44,8 +44,3 @@
 
 ---
 
-## 🧭 Visitor Counter
-
-[![](https://visitcount.itsvg.in/api?id=NulledGarp&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Profile generated & enhanced manually -->
