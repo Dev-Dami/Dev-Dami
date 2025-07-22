@@ -9,8 +9,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=750&height=60&lines=Hi%2C+I'm+Damilare+Osibanjo+%F0%9F%91%8B;Aspiring+Quant+%26+Data+Analyst+%F0%9F%A7%A0;Cybersecurity+%7C+Full-Stack+Dev+%F0%9F%92%BB;Python%2C+C%2B%2B%2C+Go%2C+JS%2C+Flask%2C+React%2C+Assembly;Lover+of+History%2C+Geopolitics+%26+Analytics+%F0%9F%93%9A"/>
+  <img src="https://your-image-host.com/forest-animation.gif" alt="Animated intro with forest and snake" />
 </p>
+
 
 ---
 
