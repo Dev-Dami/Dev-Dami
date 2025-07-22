@@ -8,6 +8,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=440&lines=Hi+there!+I'm+NulledGarp;Full-Stack+Web+Developer;React%2C+Node%2C+Firebase+%26+SQL+Lover;Always+building+cool+things!"/>
+</p>
+
+
+---
+
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nulisdami)  
