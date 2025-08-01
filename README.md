@@ -2,7 +2,7 @@
 
 🧠 Aspiring Quant Finance & Data Analyst  
 💻 Cybersecurity enthusiast | Full-Stack Developer  
-🚀 Programmer: Skills include Python, C++, Go, Web Dev [HTML, CSS, JavaScript, React.js, Flask], and Assembly (x86-64, ARM)  
+🚀 Programmer: Skills include Python, (C/C++), Go, Web Dev [HTML, CSS, JavaScript, React.js, Flask], and Assembly (x86-64, ARM)  
 📚 Lover of History, Geopolitics, and Analytical Thinking  
 🎓 Lifelong learner exploring data, security, and the world
 
@@ -25,6 +25,7 @@
 ## 💻 Tech Stack
 
 ### 🚀 Languages & Core Tools
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
