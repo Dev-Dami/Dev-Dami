@@ -1,57 +1,49 @@
-# 👋 Hi, I'm Damilare Osibanjo
-
-🧠 Aspiring Quant Finance & Data Analyst  
-💻 Cybersecurity enthusiast | Full-Stack Developer  
-🚀 Programmer: Skills include Python, (C/C++), Go, Web Dev [HTML, CSS, JavaScript, React.js, Flask], and Assembly (x86-64, ARM)  
-📚 Lover of History, Geopolitics, and Analytical Thinking  
-🎓 Lifelong learner exploring data, security, and the world
-
----
+<h1 align="center">Damilare Osibanjo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Damilare+Osibanjo+%F0%9F%91%8B;Aspiring+Quant+Finance+%26+Data+Analyst+%F0%9F%A7%A0;Cybersecurity+%7C+Full-Stack+Developer+%F0%9F%92%BB;Python%2C+C%2B%2B%2C+Go%2C+React%2C+Flask%2C+Assembly;History%2C+Geopolitics+%26+Analytical+Thinking+%F0%9F%93%9A;Lifelong+Learner+%F0%9F%8E%93"/>
+  <strong>Aspiring Quantitative Analyst | Data & Cybersecurity Enthusiast | Full-Stack Developer</strong><br>
+  Python • C/C++ • Go • Web Dev • Assembly • Data Science • Security Research
 </p>
 
+---
+
+## 🧭 About Me
+
+I'm Damilare Osibanjo, a dedicated programmer with a strong interest in quantitative finance, cybersecurity, and full-stack development. My work spans multiple languages and platforms—from low-level systems to modern web stacks and data science pipelines. I thrive on solving problems, analyzing data, and building secure, efficient systems.
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Get in Touch
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nulisdami)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damiade5banjo@gmail.com)
+- 📧 Email: [damiade5banjo@gmail.com](mailto:damiade5banjo@gmail.com)
+- 🔗 Instagram: [@nulisdami](https://instagram.com/nulisdami)
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Technical Stack
 
-### 🚀 Languages & Core Tools
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Assembly (x86-64, ARM)](https://img.shields.io/badge/Assembly-x86--64%2FARM-6E4C13?style=flat&logo=gnu&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-x86--64%2FARM-6E4C13?style=flat&logo=gnu&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🌐 Web Development
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-
-
-### 📊 Data & AI Tools
+### Data Science / Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)
@@ -60,15 +52,43 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-### 🛡️ Other Tools
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B?style=flat&logo=tampermonkey&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Insights
 
-![Damilare's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NulledGarp&theme=gruvbox&hide_border=false&show_icons=true)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=NulledGarp&theme=gruvbox&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NulledGarp&layout=compact&theme=gruvbox&hide_border=false&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NulledGarp&show_icons=true&theme=gruvbox&hide_border=false" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NulledGarp&theme=gruvbox&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NulledGarp&layout=donut&theme=gruvbox&hide_border=false&count_private=true" width="60%" />
+</p>
+
 
 ---
+
+## 🧠 Interests & Values
+
+- Deep interest in **Quantitative Finance**, **Machine Learning**, and **Security Research**
+- Advocate of system efficiency, and ethical technology
+- Strong analytical background in **history**, **geopolitics**, and **philosophy of systems**
+- Committed to lifelong learning and continuous growth in technical and academic pursuits
+
+---
+
+## 🔍 Currently Exploring
+
+- Reinforcement Learning & Statistical Arbitrage  
+- Cybersecurity (Pentesting & Network Security)  
+- Building low-level systems in C and Assembly  
+- Scalable backend systems using Go and Python  
+
+---
+
