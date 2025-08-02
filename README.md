@@ -68,7 +68,7 @@ I'm Damilare Osibanjo, a dedicated programmer with a strong interest in quantita
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NulledGarp&layout=compact&theme=gruvbox&hide_border=false&count_private=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NulledGarp&layout=compact&theme=gruvbox&hide_border=false&count_private=true" width="40%" />
 </p>
 
 
