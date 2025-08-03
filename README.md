@@ -29,6 +29,7 @@ I'm Damilare Osibanjo, a dedicated programmer with a strong interest in quantita
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-x86--64%2FARM-6E4C13?style=flat&logo=gnu&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -68,8 +69,10 @@ I'm Damilare Osibanjo, a dedicated programmer with a strong interest in quantita
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NulledGarp&layout=compact&theme=gruvbox&hide_border=false&count_private=true&cache_seconds=60" width="40%" />
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NulledGarp&layout=compact&theme=gruvbox&hide_border=false&count_private=true&cache_seconds=60&langs_count=10" 
+    width="40%" 
+  />
 </p>
 
 
