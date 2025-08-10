@@ -16,7 +16,7 @@ I'm Damilare Osibanjo, a dedicated programmer with a strong interest in quantita
 ## 📬 Get in Touch
 
 - 📧 Email: [damiade5banjo@gmail.com](mailto:damiade5banjo@gmail.com)
-- 🔗 Instagram: [@nulledgarp](https://www.instagram.com/nulledgarp/)
+- 🔗 Instagram: [@nulledgarp](https://www.instagram.com/nulleddami/)
 
 ---
 
