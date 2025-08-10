@@ -70,7 +70,7 @@ I'm Damilare Osibanjo, a dedicated programmer with a strong interest in quantita
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dami&layout=compact&theme=gruvbox&hide_border=false&count_private=true&cache_seconds=60&langs_count=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dami&layout=compact&theme=gruvbox&hide_border=false&count_private=true&cache_seconds=60&langs_count=6" 
     width="40%" 
   />
 </p>
