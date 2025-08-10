@@ -64,13 +64,13 @@ I'm Damilare Osibanjo, a dedicated programmer with a strong interest in quantita
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NulledGarp&show_icons=true&theme=gruvbox&hide_border=false" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NulledGarp&theme=gruvbox&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Dami&show_icons=true&theme=gruvbox&hide_border=false" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dev-Dami&theme=gruvbox&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NulledGarp&layout=compact&theme=gruvbox&hide_border=false&count_private=true&cache_seconds=60&langs_count=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dami&layout=compact&theme=gruvbox&hide_border=false&count_private=true&cache_seconds=60&langs_count=10" 
     width="40%" 
   />
 </p>
