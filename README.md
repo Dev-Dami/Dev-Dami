@@ -115,9 +115,12 @@ My projects span multiple programming languages, frameworks, and platforms — r
 <div style="padding: 20px;">
   <!-- Email -->
   <a href="mailto:damiosi5banjo@gmail.com" aria-label="Email Damilare Osibanjo" style="color:#dc2626; text-decoration:none;">
-    <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: middle; color:#dc2626;">
-      <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
-    </svg>
+    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" 
+       alt="Gmail" 
+       height="40" 
+       width="40" 
+       style="vertical-align: middle;" />
+
   </a>
 
   <!-- Discord -->
@@ -130,18 +133,21 @@ My projects span multiple programming languages, frameworks, and platforms — r
   </a>
 
   <!-- Dev.to (SVG available) -->
-  <a href="https://dev.to/devdami" aria-label="Dev.to Profile" style="color:#000; margin-left: 20px; text-decoration:none;">
-    <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="currentColor" viewBox="0 0 448 512" style="vertical-align: middle;">
-      <path d="M120 208v96h-24v-96h24zm8-24h-40v144h40c13.3 0 24-10.7 24-24v-96c0-13.3-10.7-24-24-24zm80 24v72l-24-72h-24v144h24v-72l24 72h24V208h-24zm160 24h-24v-24h-24v24h-24v24h24v72h-24v24h72v-24h-24v-72h24v-24z"/>
-    </svg>
-  </a>
+<a href="https://dev.to/devdami" aria-label="Dev.to Profile" style="color:#000; margin-left: 20px; text-decoration:none;">
+  <img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" 
+       alt="Dev.to" 
+       height="40" 
+       width="40" 
+       style="vertical-align: middle;" /></a>
 
   <!-- LinkedIn (SVG available) -->
-  <a href="https://linkedin.com/in/damilare-osibanjo" aria-label="LinkedIn Profile" style="color:#0a66c2; margin-left: 20px; text-decoration:none;">
-    <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: middle;">
-      <path d="M19 0h-14c-2.8 0-5 2.2-5 5v14c0 2.8 2.2 5 5 5h14c2.8 0 5-2.2 5-5v-14c0-2.8-2.2-5-5-5zM8 19H5v-9h3v9zm-1.5-10.3c-1 0-1.7-.8-1.7-1.7S5.5 5.3 6.5 5.3s1.7.8 1.7 1.7-.8 1.7-1.7 1.7zm12.5 10.3h-3v-4.7c0-1.1 0-2.5-1.5-2.5-1.5 0-1.8 1.2-1.8 2.4v4.8h-3v-9h2.8v1.2h.1c.4-.8 1.4-1.7 2.8-1.7 3 0 3.6 2 3.6 4.7v4.8z"/>
-    </svg>
-  </a>
+<a href="https://linkedin.com/in/damilare-osibanjo" aria-label="LinkedIn Profile" style="color:#e4405f; margin-left: 20px; text-decoration:none;">
+  <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" 
+       alt="LinkedIn" 
+       height="40" 
+       width="40" 
+       style="vertical-align: middle;" />
+</a>
 
   <!-- Kaggle (using image because no clean SVG) -->
   <a href="https://kaggle.com/damilareosibanjo" aria-label="Kaggle Profile" style="margin-left: 20px; text-decoration:none;">
@@ -151,9 +157,12 @@ My projects span multiple programming languages, frameworks, and platforms — r
 
   <!-- Instagram (SVG available) -->
   <a href="https://instagram.com/nulleddami" aria-label="Instagram Profile" style="color:#e4405f; margin-left: 20px; text-decoration:none;">
-    <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: middle;">
-      <path d="M7.5 2h9A5.5 5.5 0 0 1 22 7.5v9A5.5 5.5 0 0 1 16.5 22h-9A5.5 5.5 0 0 1 2 16.5v-9A5.5 5.5 0 0 1 7.5 2zm0 2A3.5 3.5 0 0 0 4 7.5v9A3.5 3.5 0 0 0 7.5 20h9a3.5 3.5 0 0 0 3.5-3.5v-9A3.5 3.5 0 0 0 16.5 4h-9zm4.5 3.5a5 5 0 1 1 0 10 5 5 0 0 1 0-10zm0 2A3 3 0 1 0 15 12a3 3 0 0 0-3-3zm5.25-.75a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5z"/>
-    </svg>
+      <img src="https://www.svgrepo.com/show/494174/instagram.svg" 
+     alt="Instagram" 
+     height="40" 
+     width="40" 
+     style="vertical-align: middle; border-radius: 50%;" />
+
   </a>
 
   <!-- LeetCode (using image because no clean SVG) -->
@@ -182,17 +191,17 @@ My projects span multiple programming languages, frameworks, and platforms — r
 
 ## Current Explorations
 
-### <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20" style="vertical-align:middle; margin-right:6px;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L15 12 9.75 7v10z" /></svg> Machine Learning Frontiers
+### <img src="https://www.svgrepo.com/show/340628/machine-learning-model.svg" alt="Cog Icon" width="26" height="26" style="vertical-align: middle;"/> Machine Learning Frontiers
 - Using reinforcement learning for smart trading bots  
 - Testing and improving statistical trading strategies  
 - Predicting time-series trends with deep learning
 
-### <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20" style="vertical-align:middle; margin-right:6px;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6 1v-2a2 2 0 00-2-2h-4l-4 4H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2" /></svg> Security & Systems
+### <img src="https://www.svgrepo.com/show/498388/security-safe.svg" alt="Cog Icon" width="26" height="26" style="vertical-align: middle;"/> Security & Systems
 - Creating offensive security tools with **Python** and **Go**  
 - Analyzing networks using **Wireshark** and custom scripts  
 - Low-level coding in **C** and **x86/ARM Assembly**
 
-### <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20" style="vertical-align:middle; margin-right:6px;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7h18M3 12h18M3 17h18" /></svg> Backend Engineering
+### <img src="https://www.svgrepo.com/show/340122/datastore.svg" alt="Cog Icon" width="26" height="26" style="vertical-align: middle;"/> Backend Engineering
 - Building fast services in **Go** and **Rust**  
 - Working with distributed systems using **gRPC** and **WebSockets**  
 - Scaling apps with **Kubernetes** and **Docker**
