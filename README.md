@@ -1,96 +1,198 @@
-# Hi, I'm Damilare Osibanjo
 
-### A dedicated programmer with a strong interest in quantitative finance, cybersecurity, and full-stack development.
+<h1 align="center ">Damilare Osibanjo</h1>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dev-dami&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dami" /> 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Quantitative+Finance+Researcher;Full-Stack+Alchemist;Cybersecurity+Enthusiast;Data+Science+Explorer" alt="Typing SVG" />
 </p>
 
-## 🔭 Current Focus
-- Learning Reinforcement Learning & Statistical Arbitrage
-- Exploring Cybersecurity (Pentesting & Network Security)
-- Building low-level systems in C and Assembly
-- Developing scalable backend systems using Go and Python
+---
+## <img src="https://www.svgrepo.com/show/475026/about.svg" width="20" height="20" alt="Contacts Icon" style="vertical-align:middle; margin-right:4px;"> About Me
 
-## 🚀 Projects
-All of my projects are available at [https://dev-dami.github.io/dami-portfolio/](https://dev-dami.github.io/dami-portfolio/)
+I’m **Damilare Osibanjo**, a 16-year-old final-year student (SS3) at *Yeshua High School* and a passionate programmer with a focus on:
 
-## 📫 How to reach me
-**damiade5banjo@gmail.com**
+- **Quantitative Finance** — developing models, analyzing markets, and working with financial data.  
+- **Cybersecurity** — exploring ethical hacking, network security, and secure system design.  
+- **Full-Stack Development** — from low-level systems programming to modern web applications and data pipelines.
 
-## 🌐 Connect with me
-<p align="left">
-  <a href="https://dev.to/devdami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devdami" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/damilare-osibanjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damilare-osibanjo" height="30" width="40" /></a>
-  <a href="https://kaggle.com/damilareosibanjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="damilareosibanjo" height="30" width="40" /></a>
-  <a href="https://instagram.com/nulleddami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nulleddami" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/dev-dami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev-dami" height="30" width="40" /></a>
-</p>
+I enjoy **solving complex problems**, **optimizing performance**, and **building systems that are both secure and efficient**.  
+My projects span multiple programming languages, frameworks, and platforms — reflecting my commitment to constant learning and innovation.
 
-## 💻 Tech Stack
 
-### Programming Languages
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</p>
+---
 
-### Web Development
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-</p>
+## <img src="https://www.svgrepo.com/show/379973/code-tech-dev.svg" width="28" height="29" alt="Contacts Icon" style="vertical-align:middle; margin-right:4px;">Technical Arsenal
 
-### Databases
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-</p>
 
-### DevOps & Cloud
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+### **Core Languages**
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=0d1117)
+![Assembly](https://img.shields.io/badge/Assembly-x86/ARM-6E4C13?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0d1117)
 
-### Data Science & AI/ML
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-</p>
+### **Web Development**
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0d1117)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0d1117)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0d1117)
 
-### Design & Tools
-<p align="left">
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-</p>
-## 📊 **GitHub Analytics**
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0d1117)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0d1117)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0d1117)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=0d1117)
+
+### **Data Science & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=0d1117)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black&labelColor=0d1117)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0d1117)
+
+### **Databases & Cloud**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0d1117)
+
+### **Security & Networking**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117)
+
+### **Dev Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=0d1117)
+
+---
+
+## <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#00AEEF" viewBox="0 0 24 24"><path d="M3 3v18h18V3H3zm16 16H5V5h14v14zM7 15h2v2H7v-2zm0-4h2v2H7v-2zm0-4h2v2H7V7zm4 8h6v2h-6v-2zm0-4h6v2h-6v-2zm0-4h6v2h-6V7z"/></svg> GitHub Analytics
 
 <div align="center">
-  
-| ![Dami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Dami&show_icons=true&theme=discord_old_blurple&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=5865F2) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dami&layout=compact&theme=discord_old_blurple&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=5865F2) |
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-dami&" alt="dev-dami" />
-</p>
+<!-- GitHub Stats -->
+<a href="https://github.com/Dev-Dami">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Dev-Dami&show_icons=true&count_private=true&hide_border=true&hide_title=false&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4&icon_color=00AEEF" 
+    height="180px" 
+    alt="GitHub Stats"
+  />
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/Dev-Dami">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dami&layout=compact&hide_border=true&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4&icon_color=00AEEF" 
+    height="180px" 
+    alt="Top Languages"
+  />
+</a>
+
+<!-- Streak Stats -->
+<a href="https://github.com/Dev-Dami">
+  <img 
+    src="https://streak-stats.demolab.com?user=Dev-Dami&theme=highcontrast&hide_border=true&background=0D1117&ring=00AEEF&fire=00AEEF&currStreakLabel=00AEEF&sideNums=E4E4E4&currStreakNum=E4E4E4&sideLabels=E4E4E4&dates=888888" 
+    height="180px" 
+    alt="GitHub Streak"
+  />
+</a>
+
+</div>
+
+---
+## <img src="https://www.svgrepo.com/show/450420/contacts.svg" width="20" height="20" alt="Contacts Icon" style="vertical-align:middle; margin-right:4px;"> Connect with Me
+<div style="padding: 20px;">
+  <!-- Email -->
+  <a href="mailto:damiosi5banjo@gmail.com" aria-label="Email Damilare Osibanjo" style="color:#dc2626; text-decoration:none;">
+    <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: middle; color:#dc2626;">
+      <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
+    </svg>
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.gg/garpfisher" aria-label="Discord Server" style="margin-left: 20px; text-decoration:none;">
+  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" 
+       alt="Discord Icon" 
+       height="40" 
+       width="40" 
+       style="vertical-align: middle;" />
+  </a>
+
+  <!-- Dev.to (SVG available) -->
+  <a href="https://dev.to/devdami" aria-label="Dev.to Profile" style="color:#000; margin-left: 20px; text-decoration:none;">
+    <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="currentColor" viewBox="0 0 448 512" style="vertical-align: middle;">
+      <path d="M120 208v96h-24v-96h24zm8-24h-40v144h40c13.3 0 24-10.7 24-24v-96c0-13.3-10.7-24-24-24zm80 24v72l-24-72h-24v144h24v-72l24 72h24V208h-24zm160 24h-24v-24h-24v24h-24v24h24v72h-24v24h72v-24h-24v-72h24v-24z"/>
+    </svg>
+  </a>
+
+  <!-- LinkedIn (SVG available) -->
+  <a href="https://linkedin.com/in/damilare-osibanjo" aria-label="LinkedIn Profile" style="color:#0a66c2; margin-left: 20px; text-decoration:none;">
+    <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: middle;">
+      <path d="M19 0h-14c-2.8 0-5 2.2-5 5v14c0 2.8 2.2 5 5 5h14c2.8 0 5-2.2 5-5v-14c0-2.8-2.2-5-5-5zM8 19H5v-9h3v9zm-1.5-10.3c-1 0-1.7-.8-1.7-1.7S5.5 5.3 6.5 5.3s1.7.8 1.7 1.7-.8 1.7-1.7 1.7zm12.5 10.3h-3v-4.7c0-1.1 0-2.5-1.5-2.5-1.5 0-1.8 1.2-1.8 2.4v4.8h-3v-9h2.8v1.2h.1c.4-.8 1.4-1.7 2.8-1.7 3 0 3.6 2 3.6 4.7v4.8z"/>
+    </svg>
+  </a>
+
+  <!-- Kaggle (using image because no clean SVG) -->
+  <a href="https://kaggle.com/damilareosibanjo" aria-label="Kaggle Profile" style="margin-left: 20px; text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" 
+         alt="Kaggle" height="40" width="40" style="vertical-align: middle;" />
+  </a>
+
+  <!-- Instagram (SVG available) -->
+  <a href="https://instagram.com/nulleddami" aria-label="Instagram Profile" style="color:#e4405f; margin-left: 20px; text-decoration:none;">
+    <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: middle;">
+      <path d="M7.5 2h9A5.5 5.5 0 0 1 22 7.5v9A5.5 5.5 0 0 1 16.5 22h-9A5.5 5.5 0 0 1 2 16.5v-9A5.5 5.5 0 0 1 7.5 2zm0 2A3.5 3.5 0 0 0 4 7.5v9A3.5 3.5 0 0 0 7.5 20h9a3.5 3.5 0 0 0 3.5-3.5v-9A3.5 3.5 0 0 0 16.5 4h-9zm4.5 3.5a5 5 0 1 1 0 10 5 5 0 0 1 0-10zm0 2A3 3 0 1 0 15 12a3 3 0 0 0-3-3zm5.25-.75a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5z"/>
+    </svg>
+  </a>
+
+  <!-- LeetCode (using image because no clean SVG) -->
+  <a href="https://www.leetcode.com/dev-dami" aria-label="LeetCode Profile" style="margin-left: 20px; text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" 
+         alt="LeetCode" height="40" width="40" style="vertical-align: middle;" />
+  </a>
+</div>
+
+-----
+
+## Intellectual Pursuits & Values
+
+### **Core Interests**
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/currency-dollar.svg" alt="Finance Icon" width="16" height="16" style="vertical-align: middle;"/> **Quantitative Finance** (Algorithmic trading, risk modeling)  
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/light-bulb.svg" alt="ML Icon" width="16" height="16" style="vertical-align: middle;"/> **Machine Learning** (Reinforcement Learning, NLP, Computer Vision)  
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/shield-check.svg" alt="Security Icon" width="16" height="16" style="vertical-align: middle;"/> **Security Research** (Pentesting, Cryptography, Network Security)  
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/server.svg" alt="Systems Icon" width="16" height="16" style="vertical-align: middle;"/> **Systems Programming** (Low-level optimization, embedded systems)  
+
+
+### **Philosophical Framework**
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/cog.svg" alt="Cog Icon" width="16" height="16" style="vertical-align: middle;"/> Advocate for **system efficiency** and **responsible technology**
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/globe-alt.svg" alt="Globe Icon" width="16" height="16" style="vertical-align: middle;"/> Analytical approach to **history**, **geopolitics**, and **systems philosophy**
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/book-open.svg" alt="Book Icon" width="16" height="16" style="vertical-align: middle;"/> Committed to **continuous learning** across technical and classical disciplines
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/arrows-right-left.svg" alt="Arrows Icon" width="16" height="16" style="vertical-align: middle;"/> Emphasis on **practical connections** between technology and traditional knowledge
+
+## Current Explorations
+
+### <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20" style="vertical-align:middle; margin-right:6px;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L15 12 9.75 7v10z" /></svg> Machine Learning Frontiers
+- Using reinforcement learning for smart trading bots  
+- Testing and improving statistical trading strategies  
+- Predicting time-series trends with deep learning
+
+### <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20" style="vertical-align:middle; margin-right:6px;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6 1v-2a2 2 0 00-2-2h-4l-4 4H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2" /></svg> Security & Systems
+- Creating offensive security tools with **Python** and **Go**  
+- Analyzing networks using **Wireshark** and custom scripts  
+- Low-level coding in **C** and **x86/ARM Assembly**
+
+### <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20" style="vertical-align:middle; margin-right:6px;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7h18M3 12h18M3 17h18" /></svg> Backend Engineering
+- Building fast services in **Go** and **Rust**  
+- Working with distributed systems using **gRPC** and **WebSockets**  
+- Scaling apps with **Kubernetes** and **Docker**
