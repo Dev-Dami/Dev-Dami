@@ -85,11 +85,11 @@ All of my projects are available at [https://dev-dami.github.io/dami-portfolio/]
   <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </p>
-## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-dami&show_icons=true&locale=en&layout=compact" alt="dev-dami" width="45%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-dami&show_icons=true&locale=en" alt="dev-dami" width="45%" />
-</p>
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+| ![Dami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Dami&show_icons=true&theme=discord_old_blurple&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=5865F2) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dami&layout=compact&theme=discord_old_blurple&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=5865F2) |
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-dami&" alt="dev-dami" />
