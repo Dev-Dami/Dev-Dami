@@ -8,6 +8,12 @@
 </p>
 
 ---
+## 🧭 About Me
+
+I'm Damilare Osibanjo, a 16-year-old final year student (SS3) at Yeshua High School and a dedicated programmer. I have a strong interest in quantitative finance, cybersecurity, and full-stack development. My work spans multiple languages and platforms—from low-level systems programming to modern web development and data science pipelines. I thrive on solving problems, analyzing data, and building secure, efficient systems.
+
+
+---
 
 ## 🛠️ Technical Arsenal
 
@@ -75,69 +81,63 @@
 </div>
 
 ---
-
-## **Connect With Me**
-
-<div align="center">
-  <a href="mailto:damiosi5banjo@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+## About Me
+<div>
+  <a href="mailto:damiosi5banjo@gmail.com" aria-label="Email Damilare Osibanjo" style="color:#dc2626; text-decoration:none;">
+    <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: middle; color:#dc2626;">
+      <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
+    </svg>
   </a>
-  <a href="https://www.instagram.com/nulleddami/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+  <a href="https://www.instagram.com/nulleddami/" aria-label="Instagram Profile" style="color:#db2777; margin-left: 20px; text-decoration:none;">
+    <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: middle; color:#db2777;">
+      <path d="M7.75 2h8.5C19.55 2 22 4.45 22 7.75v8.5c0 3.3-2.45 5.75-5.75 5.75h-8.5C4.45 22 2 19.55 2 16.25v-8.5C2 4.45 4.45 2 7.75 2zm4.25 5.75A4.5 4.5 0 107.5 12a4.5 4.5 0 004.5-4.25zm5.25-.5a1 1 0 110 2 1 1 0 010-2z"/>
+    </svg>
   </a>
-  <a href="https://discord.gg/garpfisher" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+
+  <a href="https://discord.gg/garpfisher" aria-label="Discord Server" style="color:#4f46e5; margin-left: 20px; text-decoration:none;">
+    <svg xmlns="http://www.w3.org/2000/svg" height="40" width="40" fill="currentColor" viewBox="0 0 24 24" style="vertical-align: middle; color:#4f46e5;">
+      <path d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 00.0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 00-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 01-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0786-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0814.0095c.12.099.246.1981.3727.2924a.0766.0766 0 01-.0064.1276 12.2986 12.2986 0 01-1.873.8914.0766.0766 0 00-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 00.0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 00.0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.9457 2.4189-2.1569 2.4189zm7.9748 0c-1.1824 0-2.1568-1.0857-2.1568-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2107 0 2.1757 1.0952 2.1567 2.419 0 1.3332-.9462 2.4189-2.1568 2.4189z"/>
+    </svg>
   </a>
 </div>
 
-<details>
-  <summary><b>Spotify Vibes</b></summary>
-
-  <br />
-
-  Check out my Spotify profile here:  
-  <a href="https://open.spotify.com/user/31pfj2rleuchoyw3uh3obltigdc4?si=5f3a73def0db4f69" target="_blank" rel="noopener noreferrer">
-    dev-dami
-  </a>
+<details style="max-width: 400px; margin: 20px auto 0;">
+  <summary style="cursor: pointer; font-weight: 600; font-size: 1.125rem;">Spotify Vibes</summary>
+  <p style="margin-top: 8px;">
+    Check out my Spotify profile here:  
+    <a href="https://open.spotify.com/user/31pfj2rleuchoyw3uh3obltigdc4?si=5f3a73def0db4f69" style="color:#2563eb; text-decoration: underline;">dev-dami</a>
+  </p>
 </details>
 
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Dev-Dami&label=Profile+Views&color=5865F2&style=flat-square" 
-    alt="Profile Views" 
-  />
-</p>
-
-## 🧠 Intellectual Pursuits & Values
+## Intellectual Pursuits & Values
 
 ### **Core Interests**
-- **Quantitative Finance** (Algorithmic trading, risk modeling)
-- **Machine Learning** (Reinforcement Learning, NLP, Computer Vision)
-- **Security Research** (Pentesting, Cryptography, Network Security)
-- **Systems Programming** (Low-level optimization, embedded systems)
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/currency-dollar.svg" alt="Finance Icon" width="16" height="16" style="vertical-align: middle;"/> **Quantitative Finance** (Algorithmic trading, risk modeling)  
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/light-bulb.svg" alt="ML Icon" width="16" height="16" style="vertical-align: middle;"/> **Machine Learning** (Reinforcement Learning, NLP, Computer Vision)  
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/shield-check.svg" alt="Security Icon" width="16" height="16" style="vertical-align: middle;"/> **Security Research** (Pentesting, Cryptography, Network Security)  
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/server.svg" alt="Systems Icon" width="16" height="16" style="vertical-align: middle;"/> **Systems Programming** (Low-level optimization, embedded systems)  
+
 
 ### **Philosophical Framework**
-- ⚙️ Advocate for **system efficiency** and **ethical technology**
-- 🌍 Analytical approach to **history**, **geopolitics**, and **systems philosophy**
-- 📚 Committed to **lifelong learning** across technical and liberal arts
-- 🔄 Focus on **interdisciplinary** connections between tech and humanities
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/cog.svg" alt="Cog Icon" width="16" height="16" style="vertical-align: middle;"/> Advocate for **system efficiency** and **responsible technology**
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/globe-alt.svg" alt="Globe Icon" width="16" height="16" style="vertical-align: middle;"/> Analytical approach to **history**, **geopolitics**, and **systems philosophy**
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/book-open.svg" alt="Book Icon" width="16" height="16" style="vertical-align: middle;"/> Committed to **continuous learning** across technical and classical disciplines
+- <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.13/24/outline/arrows-right-left.svg" alt="Arrows Icon" width="16" height="16" style="vertical-align: middle;"/> Emphasis on **practical connections** between technology and traditional knowledge
 
----
+## Current Explorations
 
-## 🔍 Current Explorations
-
-### **Machine Learning Frontiers**
+### <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20" style="vertical-align:middle; margin-right:4px;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L15 12 9.75 7v10z" /></svg> **Machine Learning Frontiers**
 - Reinforcement Learning applications in trading systems
 - Statistical arbitrage strategies and backtesting
 - Time-series forecasting with deep learning
 
-### **Security & Systems**
+### <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20" style="vertical-align:middle; margin-right:4px;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6 1v-2a2 2 0 00-2-2h-4l-4 4H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2" /></svg> **Security & Systems**
 - Building offensive security tools in **Python** and **Go**
 - Network security analysis with **Wireshark** and custom tools
 - Low-level systems programming in **C** and **x86/ARM Assembly**
 
-### **Backend Engineering**
+### <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="20" height="20" style="vertical-align:middle; margin-right:4px;"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7h18M3 12h18M3 17h18" /></svg> **Backend Engineering**
 - High-performance services using **Go** and **Rust**
 - Distributed systems with **gRPC** and **WebSockets**
 - Scalable architectures with **Kubernetes** and **Docker**
