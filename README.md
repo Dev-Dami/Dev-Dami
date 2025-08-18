@@ -114,64 +114,58 @@ My projects span multiple programming languages, frameworks, and platforms — r
 
 ---
 ## <img src="https://www.svgrepo.com/show/450420/contacts.svg" width="20" height="20" alt="Contacts Icon" style="vertical-align:middle; margin-right:4px;"> Connect with Me
-<div style="padding: 20px;">
-  <!-- Email -->
-  <a href="mailto:damiosi5banjo@gmail.com" aria-label="Email Damilare Osibanjo" style="color:#dc2626; text-decoration:none;">
-    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" 
-       alt="Gmail" 
-       height="40" 
-       width="40" 
-       style="vertical-align: middle;" />
 
+<div align="center" style="margin-top: 20px;">
+  
+  <!-- Email -->
+  <a href="mailto:damiosi5banjo@gmail.com" aria-label="Email Damilare Osibanjo">
+    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" 
+         alt="Gmail" 
+         height="40" width="40" />
   </a>
 
   <!-- Discord -->
-  <a href="https://discord.gg/garpfisher" aria-label="Discord Server" style="margin-left: 20px; text-decoration:none;">
-  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" 
-       alt="Discord Icon" 
-       height="40" 
-       width="40" 
-       style="vertical-align: middle;" />
+  <a href="https://discord.gg/garpfisher" aria-label="Discord Server" style="margin-left: 20px;">
+    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" 
+         alt="Discord" 
+         height="40" width="40" />
   </a>
 
-  <!-- Dev.to (SVG available) -->
-<a href="https://dev.to/devdami" aria-label="Dev.to Profile" style="color:#000; margin-left: 20px; text-decoration:none;">
-  <img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" 
-       alt="Dev.to" 
-       height="40" 
-       width="40" 
-       style="vertical-align: middle;" /></a>
+  <!-- Dev.to -->
+  <a href="https://dev.to/devdami" aria-label="Dev.to Profile" style="margin-left: 20px;">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" 
+         alt="Dev.to" 
+         height="40" width="40" />
+  </a>
 
-  <!-- LinkedIn (SVG available) -->
-<a href="https://linkedin.com/in/damilare-osibanjo" aria-label="LinkedIn Profile" style="color:#e4405f; margin-left: 20px; text-decoration:none;">
-  <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" 
-       alt="LinkedIn" 
-       height="40" 
-       width="40" 
-       style="vertical-align: middle;" />
-</a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/damilare-osibanjo" aria-label="LinkedIn Profile" style="margin-left: 20px;">
+    <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" 
+         alt="LinkedIn" 
+         height="40" width="40" />
+  </a>
 
-  <!-- Kaggle (using image because no clean SVG) -->
-  <a href="https://kaggle.com/damilareosibanjo" aria-label="Kaggle Profile" style="margin-left: 20px; text-decoration:none;">
+  <!-- Kaggle -->
+  <a href="https://kaggle.com/damilareosibanjo" aria-label="Kaggle Profile" style="margin-left: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" 
-         alt="Kaggle" height="40" width="40" style="vertical-align: middle;" />
+         alt="Kaggle" 
+         height="40" width="40" />
   </a>
 
-  <!-- Instagram (SVG available) -->
-  <a href="https://instagram.com/nulleddami" aria-label="Instagram Profile" style="color:#e4405f; margin-left: 20px; text-decoration:none;">
-      <img src="https://www.svgrepo.com/show/494174/instagram.svg" 
-     alt="Instagram" 
-     height="40" 
-     width="40" 
-     style="vertical-align: middle; border-radius: 50%;" />
-
+  <!-- Instagram -->
+  <a href="https://instagram.com/nulleddami" aria-label="Instagram Profile" style="margin-left: 20px;">
+    <img src="https://www.svgrepo.com/show/494174/instagram.svg" 
+         alt="Instagram" 
+         height="40" width="40" style="border-radius: 10%;" />
   </a>
 
-  <!-- LeetCode (using image because no clean SVG) -->
-  <a href="https://www.leetcode.com/dev-dami" aria-label="LeetCode Profile" style="margin-left: 20px; text-decoration:none;">
+  <!-- LeetCode -->
+  <a href="https://www.leetcode.com/dev-dami" aria-label="LeetCode Profile" style="margin-left: 20px;">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" 
-         alt="LeetCode" height="40" width="40" style="vertical-align: middle;" />
+         alt="LeetCode" 
+         height="40" width="40" />
   </a>
+
 </div>
 
 -----
