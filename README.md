@@ -83,11 +83,13 @@ My projects span multiple programming languages, frameworks, and platforms — r
 
 <a href="https://github.com/Dev-Dami">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dami&layout=compact&hide_border=true&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4&icon_color=00AEEF&cache_seconds=50" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dami&layout=compact&hide_border=true&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4&icon_color=00AEEF&cache_seconds=50&hide=css" 
     height="180px" 
     alt="Top Languages"
   />
 </a>
+</div>
+
 
 <!-- GitHub Stats -->
 <a href="https://github.com/Dev-Dami">
