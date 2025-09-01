@@ -12,7 +12,7 @@ Damilare Osibanjo
 I’m **Damilare Osibanjo**, a 16-year-old final-year student (SS3) at *Yeshua High School* and a passionate programmer with a focus on:
  
 - **Cyber-security** 
-- **Soft-Ware Development**
+- **SoftWare Development**
 
 I enjoy **solving complex problems**, **optimizing performance**, and **building systems that are both secure and efficient**.  
 My projects span multiple programming languages, frameworks, and platforms, reflecting my commitment to constant learning and innovation.
@@ -25,16 +25,13 @@ My projects span multiple programming languages, frameworks, and platforms, refl
 
 
 ### **Core Languages**
-<img src="https://skillicons.dev/icons?i=c,cpp,python,go,java"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,go,java"/>
 
 #### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,redux,typescript,nextjs,vue" />
 
 #### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,flask" />
-
-### **Data Science & AI**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 #### Tools
 <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,neovim" />
