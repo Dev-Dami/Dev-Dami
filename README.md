@@ -31,13 +31,13 @@ My projects span multiple programming languages, frameworks, and platforms, refl
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
 
 #### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 #### Tools
 <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,neovim" />
 
 ### **Databases & Cloud**
-<img src="https://skillicons.dev/icons?i=firebase,sqlite" />
+<img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb" />
 
 ---
 <div align="center">
