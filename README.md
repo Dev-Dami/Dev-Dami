@@ -28,7 +28,7 @@ My projects span multiple programming languages, frameworks, and platforms, refl
 <img src="https://skillicons.dev/icons?i=c,cpp,go,java"/>
 
 #### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,redux,typescript,nextjs,vue" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
 
 #### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
