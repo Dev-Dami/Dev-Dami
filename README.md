@@ -43,7 +43,7 @@ My projects span multiple programming languages, frameworks, and platforms, refl
 <div align="center">
 <a href="https://github.com/Dev-Dami">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dami&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4&icon_color=00AEEF&cache_seconds=50&hide=css" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dami&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4&icon_color=00AEEF&cache_seconds=50&hide=css,ejs,html" 
     height="180px" 
     alt="Top Languages"
   />
