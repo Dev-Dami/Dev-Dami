@@ -25,13 +25,13 @@ My projects span multiple programming languages, frameworks, and platforms, refl
 
 
 ### **Core Languages**
-<img src="https://skillicons.dev/icons?i=c,cpp,go,kotlin,rust"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,go,kotlin,rust,python"/>
 
 #### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
 
 #### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
 #### Tools
 <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,neovim" />
