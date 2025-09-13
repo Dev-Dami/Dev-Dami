@@ -37,7 +37,7 @@ My projects span multiple programming languages, frameworks, and platforms, refl
 <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,neovim" />
 
 ### **Databases & Cloud**
-<img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb" />
+<img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb,postgresql" />
 
 ---
 <div align="center">
