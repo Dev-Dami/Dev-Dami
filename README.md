@@ -52,7 +52,7 @@ My projects span multiple programming languages, frameworks, and platforms, refl
 #
 <a href="https://github.com/Dev-Dami">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Dev-Dami&show_icons=true&count_private=true&hide_border=true&hide_title=false&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4&icon_color=00AEEF" 
+    src="https://github-readme-stats.vercel.app/api?username=Dev-Dami&show_icons=true&count_private=true&hide_border=true&hide_title=false&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4&icon_color=00AEEF&t=1" 
     height="180px" 
     alt="GitHub Stats"
   />
