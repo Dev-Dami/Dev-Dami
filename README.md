@@ -9,15 +9,9 @@ Damilare Osibanjo
 
 ## <img src="https://www.svgrepo.com/show/475026/about.svg" width="20" height="20" alt="Contacts Icon" style="vertical-align:middle; margin-right:4px;"> About Me
 
-I’m **Damilare Osibanjo**, a 16-year-old final-year student (SS3) at *Yeshua High School* and a passionate programmer with a focus on:
- 
-- **Cyber-security** 
-- **SoftWare Development**
+I’m **Damilare Osibanjo**, a 16-year-old final-year student (SS3) at *Yeshua High School* and a passionate programmer.
 
 I enjoy **solving complex problems**, **optimizing performance**, and **building systems that are both secure and efficient**.  
-My projects span multiple programming languages, frameworks, and platforms, reflecting my commitment to constant learning and innovation.
-
-
 ---
 
 
