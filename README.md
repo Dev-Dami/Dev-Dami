@@ -11,7 +11,6 @@ Damilare Osibanjo
 
 I’m **Damilare Osibanjo**, a 16-year-old final-year student (SS3) at *Yeshua High School* and a passionate programmer.
 
-I enjoy **solving complex problems**, **optimizing performance**, and **building systems that are both secure and efficient**.  
 ---
 
 
