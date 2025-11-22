@@ -1,111 +1,90 @@
-<h1 align="center ">
+<h1 align="center">
 
------
+<hr/>
 
 Damilare Osibanjo
 
----
+<hr/>
 </h1>
 
 ## <img src="https://www.svgrepo.com/show/475026/about.svg" width="20" height="20" alt="Contacts Icon" style="vertical-align:middle; margin-right:4px;"> About Me
 
-I’m **Damilare Osibanjo**, a 16-year-old final-year student (SS3) at *Yeshua High School* and a passionate programmer.
+I’m Damilare Osibanjo, a 16-year-old SS3 student at Yeshua High School and a dedicated programmer. I enjoy learning new technologies, building useful projects, and improving my skills in system-level and web development. I’m always looking for better ways to write clean, efficient, and reliable code.
 
 ---
 
+## <img src="https://www.svgrepo.com/show/450420/contacts.svg" width="20" height="20" alt="Contacts Icon" style="vertical-align:middle; margin-right:4px;"> Connect with Me
+
+<div align="center" style="margin-top: 20px;">
+  <a href="mailto:damiosi5banjo@gmail.com" aria-label="Email Damilare Osibanjo">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
+  </a>
+  <a href="https://discord.gg/garpfisher" aria-label="Discord Server" style="margin-left: 20px;">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" width="40" />
+  </a>
+  <a href="https://dev.to/devdami" aria-label="Dev.to Profile" style="margin-left: 20px;">
+    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" height="40" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/damilare-osibanjo" aria-label="LinkedIn Profile" style="margin-left: 20px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://kaggle.com/damilareosibanjo" aria-label="Kaggle Profile" style="margin-left: 20px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/nulleddami" aria-label="Instagram Profile" style="margin-left: 20px;">
+    <img src="https://www.svgrepo.com/show/494174/instagram.svg" alt="Instagram" height="40" width="40" style="border-radius: 30%;" />
+  </a>
+  <a href="https://www.leetcode.com/dev-dami" aria-label="LeetCode Profile" style="margin-left: 20px;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" alt="LeetCode" height="40" width="40" />
+  </a>
+</div>
+
+---
 
 ## Technical Arsenal
 
-
 ### **Core Languages**
+
 <img src="https://skillicons.dev/icons?i=c,go,rust,python"/>
 
 #### Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
 
 #### Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
 #### Tools
+
 <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,neovim" />
 
 ### **Databases & Cloud**
+
 <img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb,postgresql" />
 
 ---
+
 <div align="center">
 <a href="https://github.com/Dev-Dami">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dami&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4&icon_color=00AEEF&cache_seconds=5&hide=css,ejs,html" 
-    height="180px" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dami&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4&icon_color=00AEEF&cache_seconds=5&hide=css,ejs,html"
+    height="180px"
     alt="Top Languages"
   />
 </a>
 
 #
+
 <a href="https://github.com/Dev-Dami">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Dev-Dami&show_icons=true&count_private=true&hide_border=true&hide_title=false&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4&icon_color=00AEEF&t=1" 
-    height="180px" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dev-Dami&show_icons=true&count_private=true&hide_border=true&hide_title=false&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4&icon_color=00AEEF&t=1"
+    height="180px"
     alt="GitHub Stats"
   />
 </a>
 </div>
 
 ---
-## <img src="https://www.svgrepo.com/show/450420/contacts.svg" width="20" height="20" alt="Contacts Icon" style="vertical-align:middle; margin-right:4px;"> Connect with Me
 
-<div align="center" style="margin-top: 20px;">
-  
-  <!-- Email -->
-  <a href="mailto:damiosi5banjo@gmail.com" aria-label="Email Damilare Osibanjo">
-    <img src="https://skillicons.dev/icons?i=gmail" 
-         alt="Gmail" 
-         height="40" width="40" />
-  </a>
-
-  <!-- Discord -->
-  <a href="https://discord.gg/garpfisher" aria-label="Discord Server" style="margin-left: 20px;">
-    <img src="https://skillicons.dev/icons?i=discord" 
-         alt="Discord" 
-         height="40" width="40" />
-  </a>
-
-  <!-- Dev.to -->
-  <a href="https://dev.to/devdami" aria-label="Dev.to Profile" style="margin-left: 20px;">
-    <img src="https://skillicons.dev/icons?i=devto" 
-         alt="Dev.to" 
-         height="40" width="40" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/damilare-osibanjo" aria-label="LinkedIn Profile" style="margin-left: 20px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" 
-         alt="LinkedIn" 
-         height="40" width="40" />
-  </a>
-
-  <!-- Kaggle -->
-  <a href="https://kaggle.com/damilareosibanjo" aria-label="Kaggle Profile" style="margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" 
-         alt="Kaggle" 
-         height="40" width="40" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/nulleddami" aria-label="Instagram Profile" style="margin-left: 20px;">
-    <img src="https://www.svgrepo.com/show/494174/instagram.svg" 
-         alt="Instagram" 
-         height="40" width="40" style="border-radius: 30%;" />
-  </a>
-
-  <!-- LeetCode -->
-  <a href="https://www.leetcode.com/dev-dami" aria-label="LeetCode Profile" style="margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" 
-         alt="LeetCode" 
-         height="40" width="40" />
-  </a>
-
-</div>
-
------
+---
