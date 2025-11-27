@@ -1,15 +1,6 @@
-<h1 align="center">
-
-<hr/>
-
-Damilare Osibanjo
-
-<hr/>
-</h1>
-
 ## <img src="https://www.svgrepo.com/show/475026/about.svg" width="20" height="20" alt="Contacts Icon" style="vertical-align:middle; margin-right:4px;"> About Me
 
-I’m Damilare Osibanjo, a 16-year-old SS3 student at Yeshua High School and a dedicated programmer. I enjoy learning new technologies, building useful projects, and improving my skills in system-level and web development. I’m always looking for better ways to write clean, efficient, and reliable code.
+HEY i’m Damilare Osibanjo, a 16-year-old programmer. I enjoy learning new technologies, building useful projects, and improving my skills in system-level and web development. I’m always looking for better ways to write clean, efficient, and reliable code.
 
 ---
 
