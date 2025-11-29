@@ -1,78 +1,39 @@
-## <img src="https://www.svgrepo.com/show/475026/about.svg" width="20" height="20" alt="Contacts Icon" style="vertical-align:middle; margin-right:4px;"> About Me
+# Hi, I'm Damilare 👋
 
-HEY i’m Damilare Osibanjo, a 16-year-old programmer. I enjoy learning new technologies, building useful projects, and improving my skills in system-level and web development. I’m always looking for better ways to write clean, efficient, and reliable code.
+16-year-old programmer who loves system programming and backend web development.
 
 ---
 
-## <img src="https://www.svgrepo.com/show/450420/contacts.svg" width="20" height="20" alt="Contacts Icon" style="vertical-align:middle; margin-right:4px;"> Connect with Me
+## Connect
 
-<div align="center" style="margin-top: 20px;">
-  <a href="mailto:damiosi5banjo@gmail.com" aria-label="Email Damilare Osibanjo">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
-  </a>
-  <a href="https://discord.gg/garpfisher" aria-label="Discord Server" style="margin-left: 20px;">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" width="40" />
-  </a>
-  <a href="https://dev.to/devdami" aria-label="Dev.to Profile" style="margin-left: 20px;">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" height="40" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/damilare-osibanjo" aria-label="LinkedIn Profile" style="margin-left: 20px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://kaggle.com/damilareosibanjo" aria-label="Kaggle Profile" style="margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/nulleddami" aria-label="Instagram Profile" style="margin-left: 20px;">
-    <img src="https://www.svgrepo.com/show/494174/instagram.svg" alt="Instagram" height="40" width="40" style="border-radius: 30%;" />
-  </a>
-  <a href="https://www.leetcode.com/dev-dami" aria-label="LeetCode Profile" style="margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" alt="LeetCode" height="40" width="40" />
-  </a>
+<div align="center">
+  <a href="mailto:damiosi5banjo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://discord.gg/garpfisher" style="margin-left:20px;"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
+  <a href="https://dev.to/devdami" style="margin-left:20px;"><img src="https://skillicons.dev/icons?i=devto" height="40" /></a>
+  <a href="https://linkedin.com/in/damilare-osibanjo" style="margin-left:20px;"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://kaggle.com/damilareosibanjo" style="margin-left:20px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" /></a>
+  <a href="https://instagram.com/nulleddami" style="margin-left:20px;"><img src="https://www.svgrepo.com/show/494174/instagram.svg" height="40" style="border-radius:30%;" /></a>
+  <a href="https://www.leetcode.com/dev-dami" style="margin-left:20px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="40" /></a>
 </div>
 
 ---
 
-## Technical Arsenal
+## Tech Stack
 
-### **Core Languages**
+**Languages:** <img src="https://skillicons.dev/icons?i=c,go,rust,python" />
 
-<img src="https://skillicons.dev/icons?i=c,go,rust,python"/>
+**Frontend:** <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
 
-#### Frontend
+**Backend:** <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
+**Tools:** <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,neovim" />
 
-#### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-
-#### Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,github,git,postman,neovim" />
-
-### **Databases & Cloud**
-
-<img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb,postgresql" />
+**Databases/Cloud:** <img src="https://skillicons.dev/icons?i=firebase,sqlite,mongodb,postgresql" />
 
 ---
 
 <div align="center">
-<a href="https://github.com/Dev-Dami">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dami&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4&icon_color=00AEEF&cache_seconds=5&hide=css,ejs,html"
-    height="180px"
-    alt="Top Languages"
-  />
-</a>
-
-#
-
-<a href="https://github.com/Dev-Dami">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Dev-Dami&show_icons=true&count_private=true&hide_border=true&hide_title=false&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4&icon_color=00AEEF&t=1"
-    height="180px"
-    alt="GitHub Stats"
-  />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dami&layout=compact&hide_border=true&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4" height="160" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Dami&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00AEEF&text_color=E4E4E4" height="160" />
 </div>
-
