@@ -1,6 +1,6 @@
-# Hi, I'm Damilare 👋
+# Hey, I'm Damilare
 
-16-year-old programmer who loves system programming and backend web development.
+A 16-year-old programmer who loves system programming and backend web development.
 
 ---
 
